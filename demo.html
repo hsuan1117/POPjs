@@ -1,0 +1,29 @@
+<!--
+ * POPPage JS  
+ * 張睿玹版權所有 
+ * Copyright Chang-Jui-Hsuan from Republic Of China
+ * https://github.com/dwcoop/POPPageJS/license.html
+ * 檔案/File: demo.js
+ * 版本/Version: V1.0.0
+ * 日期/Date: 2019-06-11T21:48Z
+-->
+<html onclick='pop("https://localjs.blogspot.com",null,{
+  "point":"uid",
+  "postback":"doha"
+}).under()'>
+<script>
+window.onerror = function(msg, url, linenumber) {
+    alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
+    return true;
+}
+</script>
+<script src="index.js"></script>
+<script>
+pop().postbackHandler({
+  doha:()=>{
+    alert("got postback")
+  }
+})
+</script>
+POPUnder
+</html>
