@@ -2,8 +2,8 @@
 
 ## What's new?
   - V1.0.1
-  -- Change license to MIT
-  -- Change front matter of the file
+    - Change license to MIT
+    - Change front matter of the file
 
 ## 用途
   - POPup 彈出頁面
