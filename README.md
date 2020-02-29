@@ -1,4 +1,17 @@
-# POPjs
-Totally Free !!
-If you like this project,star it!
-完全免費的POPPage JS函式庫
+# POPjs 
+
+## 用途
+  - POPup 彈出頁面
+  - POPunder 在當前頁面下方彈出一個頁面
+  - 支援自定義參數、瀏覽後Callback
+## 瀏覽器相容性
+  - 各大瀏覽器相容（但小心被使用者Block彈出視窗）
+  - Facebook瀏覽器**特別**有效
+
+## Features
+  - POP up a page 
+  - POP a page under 
+  - Support custome parameters , callback after viewed
+## Browser Capacity
+  - Support main browsers
+  - **Especially** on Facebook Browser, it works really great.
