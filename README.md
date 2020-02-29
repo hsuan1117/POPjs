@@ -1,5 +1,10 @@
 # POPjs 
 
+## What's new?
+  - V1.0.1
+  -- Change license to MIT
+  -- Change front matter of the file
+
 ## 用途
   - POPup 彈出頁面
   - POPunder 在當前頁面下方彈出一個頁面
