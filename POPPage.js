@@ -1,11 +1,8 @@
-/*
- * POPPage JS  
- * 張睿玹版權所有 
- * Copyright Chang-Jui-Hsuan from Republic Of China
- * https://github.com/dwcoop/POPPageJS/license.html
- * 檔案/File: POPPage.js
- * 版本/Version: V1.0.0
- * 日期/Date: 2019-06-11T21:48Z
+/*!
+ * POPjs JavaScript Library V1.0.1
+ * License: MIT
+ * File: POPPage.js
+ * Date: 2019-06-11T21:48+08:00
  */
 function POPPage(underUrl,url,settings){
   this.version="1.0.0";
