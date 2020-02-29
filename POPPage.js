@@ -2,7 +2,7 @@
  * POPjs JavaScript Library V1.0.1
  * License: MIT
  * File: POPPage.js
- * Date: 2019-06-11T21:48+08:00
+ * Date: 2020-02-29T23:06+08:00
  */
 function POPPage(underUrl,url,settings){
   this.version="1.0.0";
